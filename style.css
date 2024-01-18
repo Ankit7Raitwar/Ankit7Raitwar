@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+.banner{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+    url("./image/2.jpeg");
+    background-position: center;
+    background-size: cover;
+    color:#fff;
+   
+}
+.banner .info{
+    position: absolute;
+    height: auto;
+    width: 100%;
+    text-align: center;
+    font-family:"poppins", sans-serif;
+    top: 50%;
+    transform: translateY(-50%);
+
+
+}
+.info h1 {
+    font-size: 98px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.info h3 {
+    font-size: 42px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    margin-top: -2%;
+}
+/* .info p {
+    font-size: 78px;
+    font-weight: 400;
+    letter-spacing: 8px;
+} */
+.sec1,
+.sec3,
+.sec5{
+    position: relative;
+    height: 30vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: 48px;
+    font-family:"poppins", sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    text-transform: uppercase;
+
+}
+.sec2,
+.sec4,
+.sec6{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: 48px;
+    font-family:"poppins", sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: white;
+}
+.sec2{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+     url("./image/hunter.jpg");
+     background-size: cover;
+     background-position: center;
+
+}
+.sec4{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+     url("./image/kimetsu-no-yaiba-anime-4k-yn-1920x1080.jpg");
+     background-size: cover;
+     background-position: center;
+
+}
+.sec6{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+     url("./image/4.jpeg");
+     background-size: cover;
+     background-position: center;
+
+}
+.parallax{
+    background-attachment: fixed;
+}
