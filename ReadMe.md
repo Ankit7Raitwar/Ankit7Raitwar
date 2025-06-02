@@ -49,8 +49,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Ankit's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit7Raitwar&show_icons=true&theme=radical" alt="Ankit's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit7Raitwar&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
@@ -69,9 +69,8 @@ Here are a few projects I've worked on:
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-- **Email**: your.email@example.com
+- **LinkedIn**: [linkedin.com/in/mr-ankit-raitwar-6682b6243/](https://www.linkedin.com/in/mr-ankit-raitwar-6682b6243/)]
+- **Email**: ankitraitwar@gmail.com
 
 ---
 
